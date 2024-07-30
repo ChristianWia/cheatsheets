@@ -12,7 +12,7 @@ Requirements : (must include the language in the file name)
 
 ## data_table (3 months ago - not in ./png)
 
-<a href="https://raw.githubusercontent.com/rstudio/cheatsheets/master/datatable.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/master/pngs/datatable.png" width="615" height="242"/></a>
+<a href="https://raw.githubusercontent.com/rstudio/cheatsheets/master/data_table.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/master/pngs/datatable.png" width="615" height="242"/></a>
 
 ##  datatable (6 years ago)
 
