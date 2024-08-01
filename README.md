@@ -19,3 +19,8 @@ Created by Erik Petrovsky and Mara Destefanis – maragdestefanis@gmail.com • 
 
 CC BY SA Erik Petrovski • www.petrovski.dk • Learn more with the data.table homepage or vignette • data.table version 1.11.8 • Updated: 2019-01
 <a href="https://raw.githubusercontent.com/rstudio/cheatsheets/master/datatable.pdf"><img src="https://raw.githubusercontent.com/rstudio/cheatsheets/master/pngs/datatable.png" width="615" height="242"/></a>
+
+## Issues
+
+-Toby, renaming -> [#367](https://github.com/rstudio/cheatsheets/pull/367)
+-Mara last .pptx-> [#335](https://github.com/rstudio/cheatsheets/pull/335)
