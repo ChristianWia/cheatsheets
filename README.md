@@ -6,7 +6,7 @@ Entry point -> [https://github.com/rstudio/cheatsheets](https://github.com/rstud
 
 Requirements : (must include the language in the file name)
 
-- a screenshot  in ./pngs/data_table-fr.png
+- a screenshot  in ./pngs/data_table-fr.png (a .png image of the first page of your cheatsheet 1100 x 850 for the website thumbnail)
 - the source in ./powerpoints/data_table-fr.pptx
 - the pdf under the root ./data_table-fr.pdf
 
